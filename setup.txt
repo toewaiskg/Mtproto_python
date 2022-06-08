@@ -1,0 +1,7 @@
+1. python3 install
+
+2. python3-pip install
+
+pip3 install (package name)
+
+pip3 install (telethon)
